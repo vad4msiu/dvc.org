@@ -3,7 +3,7 @@
 In the previous chapters, we described our first pipeline. Basically, we created
 a number of [stage files](/doc/commands-reference/run). Each of these
 [DVC-files](/doc/user-guide/dvc-file-format) describes single stage we need to
-run towards a final result (a [pipeline]](/doc/commands-reference/pipeline)).
+run towards a final result (a [pipeline](/doc/commands-reference/pipeline)).
 Each depends on some data (either raw data files or intermediate results from
 previous stages) and code files.
 
